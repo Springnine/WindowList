@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\cnsrn\source\repos\project33\project33\소스.c(66): warning C4047: '함수': 'LPARAM'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\cnsrn\source\repos\project33\project33\소스.c(66): warning C4024: 'EnumWindows': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  Project33.vcxproj -> C:\Users\cnsrn\source\repos\Project33\Debug\Project33.exe
